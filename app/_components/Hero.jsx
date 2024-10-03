@@ -23,20 +23,18 @@ function Hero() {
 
         <div className="p-8 sm:p-16 lg:p-24">
           <h2 className="text-2xl font-bold sm:text-3xl">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, debitis.
+           CRAFTING COMFORT
           </h2>
 
           <p className="mt-4 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, molestiae! Quidem est
-            esse numquam odio deleniti, beatae, magni dolores provident quaerat totam eos, aperiam
-            architecto eius quis quibusdam fugiat dicta.
+          Where Elegance Meets Ease. We design products that blend style and functionality, creating a sanctuary of relaxation in every space. Experience the perfect harmony of aesthetics and comfort, tailored just for you."
           </p>
 
           <a
             href="#"
             className="mt-8 inline-block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
           >
-            Get in Touch
+            Get Started!
           </a>
         </div>
       </div>

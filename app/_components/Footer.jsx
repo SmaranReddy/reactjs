@@ -28,8 +28,7 @@ function Footer() {
             <h2 className="text-2xl font-bold text-gray-900">Get the latest news!</h2>
 
             <p className="mt-4 text-gray-500">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse non cupiditate quae nam
-              molestias.
+            Crafting Comfort is a company focused on designing and delivering high-quality, customizable home and lifestyle products that prioritize relaxation and well-being.                       
             </p>
           </div>
         </div>
@@ -254,7 +253,7 @@ function Footer() {
 
     <div className="mt-8 border-t border-gray-100 pt-8">
       <div className="sm:flex sm:justify-between">
-        <p className="text-xs text-gray-500">&copy; 2022. Company Name. All rights reserved.</p>
+        <p className="text-xs text-gray-500">&copy; 2024. Crafting Comfort. All rights reserved.</p>
 
         <ul className="mt-8 flex flex-wrap justify-start gap-4 text-xs sm:mt-0 lg:justify-end">
           <li>
