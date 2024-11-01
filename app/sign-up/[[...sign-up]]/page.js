@@ -20,7 +20,7 @@ export default function Page() {
             </a>
 
             <h1 className="mt-6 text-2xl font-bold text-teal-600 sm:text-3xl md:text-4xl">
-              Welcome to Crafting Comfort
+              Welcome to Crafting Comfort.
             </h1>
 
             <div className="p-10">
