@@ -16,7 +16,7 @@ function Hero() {
                 <div className="absolute inset-0 bg-gradient-to-r from-teal-600 via-transparent to-teal-700 opacity-20"></div>
               </div>
             </div>
-
+                                                                                                
             <div className="relative flex items-center bg-gray-100 p-8 sm:p-16 lg:p-20 animate-slide-in">
               <div>
                 <h2 className="text-3xl font-bold text-teal-600 sm:text-4xl mb-2">
